@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "194615083985",
+    "firebase_url": "https://my-note-9110e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-note-9110e",
+    "storage_bucket": "my-note-9110e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194615083985:android:ce932d91a32452383c96f0",
+        "android_client_info": {
+          "package_name": "com.example.ml_kit_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzmDgUSjxxnNecoczW2Gl0F06qD2wIEF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194615083985:android:01115cf51d3365233c96f0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzmDgUSjxxnNecoczW2Gl0F06qD2wIEF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
